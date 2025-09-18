@@ -53,3 +53,5 @@ lokasi file \Perfect World II Indonesia\element\userdata\character\highpolycusto
 female  : TEC
 
 male    : EDG
+
+"CUKUP COPAS FILE.INI KE FOLDER TUJUAN"
